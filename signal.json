@@ -1,0 +1,14 @@
+{
+  "cycle_monday": "2026-09-07",
+  "cycle_end_close": "2026-09-21",
+  "final_decision": "BLOCK \u2014 WEAK / SKIP",
+  "execution_status": "BLOCK \u2014 FINAL DECISION IS WAIT",
+  "strategy_instrument": null,
+  "broker_symbol": null,
+  "direction": null,
+  "stop_distance_1r": null,
+  "rr_multiple": 0.0,
+  "be_trigger_distance_2r": null,
+  "gates_passing": null,
+  "generated_at_utc": "2026-09-10T01:30:24Z"
+}
