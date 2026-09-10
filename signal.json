@@ -7,8 +7,8 @@
   "broker_symbol": "XAUUSD",
   "direction": null,
   "stop_distance_1r": null,
-  "rr_multiple": 0.0,
+  "rr_multiple": null,
   "be_trigger_distance_2r": null,
   "gates_passing": null,
-  "generated_at_utc": "2026-09-10T10:06:33Z"
+  "generated_at_utc": "2026-09-10T11:06:56Z"
 }
